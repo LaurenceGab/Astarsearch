@@ -1,9 +1,6 @@
 package astarsearch;
 
-/**
- *
- * @author callo
- */
+
 
 
 import java.util.*;
